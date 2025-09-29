@@ -25,7 +25,7 @@
 
 ## 🔗 Connect with me
 - 🌐 [Codeforces](https://codeforces.com/profile/shayon18)  
-- 📧 Email: *your_email_here*  
+- 📧 Email: *shayonboidya11@gmail.com*  
 
 ---
 
