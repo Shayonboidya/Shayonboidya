@@ -1,15 +1,32 @@
-# Hi there 👋
+# 👋 Hi, I'm Shayon  
 
-**Shayonboidya/Shayonboidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at **Patuakhali Science and Technology University (PSTU)**  
+💻 Studying **Computer Science and Engineering (CSE)**  
+⚡ Currently learning **C & C++**  
+🏆 Solved **60+ problems** on Codeforces (and growing!)  
+🚀 Passionate about **Competitive Programming & Problem Solving**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills & Learning
+- C Programming  
+- C++ (OOP, STL, Competitive Programming)  
+- Data Structures & Algorithms  
+- Problem Solving  
 
+---
+
+## 📊 GitHub Stats
+![Shayon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayonboidya&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayonboidya&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shayonboidya&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+- 🌐 [Codeforces](https://codeforces.com/profile/shayon18)  
+- 📧 Email: *your_email_here*  
+
+---
+
+⭐️ *"Keep learning, keep building, keep growing."*  
