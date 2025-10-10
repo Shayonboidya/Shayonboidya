@@ -3,7 +3,7 @@
 🎓 Student at **Patuakhali Science and Technology University (PSTU)**  
 💻 Studying **Computer Science and Engineering (CSE)**  
 ⚡ Currently learning **C & C++**  
-🏆 Solved **80+ problems** on Codeforces (and growing!)  
+🏆 Solved **90+ problems** on Codeforces (and growing!)  
 🚀 Passionate about **Competitive Programming & Problem Solving**  
 
 ---
