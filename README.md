@@ -2,7 +2,7 @@
 
 🎓 Student at **Patuakhali Science and Technology University (PSTU)**  
 💻 Studying **Computer Science and Engineering (CSE)**  
-⚡ Currently learning **C & C++ java javascript html css**  
+⚡ Currently learning **C, C++, java, javascript, html, css**  
 🏆 Solved **220+ problems** on Codeforces  
 📊 Codeforces Rating: **960**  
 📈 Solved **290+ problems** on LeetCode  
